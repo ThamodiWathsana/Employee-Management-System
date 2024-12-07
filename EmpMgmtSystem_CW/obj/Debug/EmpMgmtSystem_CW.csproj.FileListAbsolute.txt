@@ -1,0 +1,25 @@
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\bin\Debug\EmpMgmtSystem_CW.exe.config
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\bin\Debug\EmpMgmtSystem_CW.exe
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\bin\Debug\EmpMgmtSystem_CW.pdb
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.csproj.AssemblyReference.cache
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.Form1.resources
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.HomePge.resources
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.Properties.Resources.resources
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.csproj.GenerateResource.cache
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.csproj.CoreCompileInputs.cache
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.exe
+C:\Users\C&J COMPUTERS\OneDrive\Desktop\GUI SELF STUDY\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.pdb
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\bin\Debug\EmpMgmtSystem_CW.exe.config
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\bin\Debug\EmpMgmtSystem_CW.exe
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\bin\Debug\EmpMgmtSystem_CW.pdb
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.csproj.AssemblyReference.cache
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.Form1.resources
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.HomePge.resources
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.Login.resources
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.Properties.Resources.resources
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.Salary.resources
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.View.resources
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.csproj.GenerateResource.cache
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.csproj.CoreCompileInputs.cache
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.exe
+C:\Users\C&J COMPUTERS\Downloads\GUI CW\EmpMgmtSystem_CW\obj\Debug\EmpMgmtSystem_CW.pdb
